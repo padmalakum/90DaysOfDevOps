@@ -10,6 +10,9 @@ shell script to print
 
 ![image](https://user-images.githubusercontent.com/92623347/226776018-30e22002-5e7e-4ebb-852f-4f2c77d72df0.png)
 
+shell script for user input, input as arguments and 
+
+
 
 
 
