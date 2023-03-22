@@ -17,6 +17,16 @@ shell script for user input, input from  arguments and print variables
 
 ![image](https://user-images.githubusercontent.com/92623347/226783080-6d6c489c-ce10-4fe2-8f09-c20bd5a2c603.png)
 
+comparing 2 numbers in shell script
+![image](https://user-images.githubusercontent.com/92623347/226787897-a97ac931-ec6b-4018-98e0-5c2a1afc5a22.png)
+
+![image](https://user-images.githubusercontent.com/92623347/226788099-dc903706-8f61-4cf2-9315-3e91ad0e361e.png)
+
+
+
+
+
+
 
 
 
