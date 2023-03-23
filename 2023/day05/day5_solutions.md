@@ -16,6 +16,10 @@ cron and crontab to automate the script
 
 ![image](https://user-images.githubusercontent.com/92623347/227127482-e21c28c3-669a-4773-a81c-fbd115a1dc1e.png)
 
+Create 2 users and just display their Usernames
+
+
+
 
 
 
