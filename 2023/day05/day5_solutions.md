@@ -18,6 +18,10 @@ cron and crontab to automate the script
 
 Create 2 users and just display their Usernames
 
+awk -F':' '{ print $1}' /etc/passwd
+![image](https://user-images.githubusercontent.com/92623347/227128135-949172ce-90df-44d3-87b6-f07590d987b2.png)
+
+
 
 
 
