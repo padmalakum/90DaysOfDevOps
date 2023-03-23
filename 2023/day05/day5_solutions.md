@@ -11,3 +11,11 @@ Create a Script to backup all your work done till now.
 
 ![image](https://user-images.githubusercontent.com/92623347/227126441-285e4559-399a-4894-b262-52daf7a40c9e.png)
 
+cron and crontab to automate the script
+![image](https://user-images.githubusercontent.com/92623347/227127132-b2ec5581-1196-4d93-be7d-2f48fca5e829.png)
+
+![image](https://user-images.githubusercontent.com/92623347/227127482-e21c28c3-669a-4773-a81c-fbd115a1dc1e.png)
+
+
+
+
