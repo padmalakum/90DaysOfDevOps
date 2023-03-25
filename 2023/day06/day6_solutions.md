@@ -12,3 +12,13 @@ to change other(users ) we have to use chmod command
 chmod o=rw filename if we want to give write and read permissions for that file.
 
 ![image](https://user-images.githubusercontent.com/92623347/227665602-915d6569-5576-4b02-8783-be9cf5869241.png)
+
+ACL are access control lists which gives access or specific  permissions for other users, and groups .
+
+getfacl filename
+![image](https://user-images.githubusercontent.com/92623347/227669781-9decc35c-7b3b-4d66-9c76-c14f1794ebf7.png)
+
+and we can set specific permissions  to a different user (other than owner) and to different users in a different grp
+
+
+
